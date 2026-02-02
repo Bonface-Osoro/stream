@@ -9,15 +9,15 @@ Here the transfer learning approach implemented in the study (see `Figure 1`).
 
 #### Figure 1 Proposed Method.
 <p align="center">
-  <img src="/docs/Method_Box.png" />
+  <img src="/docs/method_box.jpg" />
 </p>
 
 Results
 =======
-`Figure 2` shows the GNN-LSTM training results.
-#### Figure 2 model performance on prediction of various riverine nutrients.
+`Figure 2` shows the data to be used for GNN-LSTM model.
+#### Figure 2 CONUS river data to be used in the model.
 <p align="center">
-  <img src="/docs/object_class_map.png" />
+  <img src="/docs/combined_plots.png" />
 </p>
 
 ## Background and funding
